@@ -8,3 +8,8 @@ venv
 .env.development
 .env.test
 .env.production
+
+
+ .ipynb_checkpoints/
+ .DS_Store
+ aienv
