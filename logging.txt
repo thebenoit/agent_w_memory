@@ -1,0 +1,12 @@
+Your Conversation Log:
+You: Hi I am steve
+AI: Hi Steve! How can I assist you today?
+You: good morning
+AI: Good morning, Steve! How’s your day going so far?
+You: tell me a joke
+AI: Sure! Here’s one for you:
+
+Why don't skeletons fight each other?
+
+Because they don't have the guts!
+END OF CONVERSATION
